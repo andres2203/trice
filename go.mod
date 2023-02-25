@@ -12,6 +12,5 @@ require (
 	github.com/tj/assert v0.0.3
 	github.com/udhos/equalfile v0.3.0
 	go.bug.st/serial v1.0.0
-	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
-	golang.org/x/sys v0.0.0-20210119212857-b64e53b001e4 // indirect
+	golang.org/x/crypto v0.1.0
 )
